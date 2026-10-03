@@ -10,7 +10,7 @@ GPWS는 항공기에 탑재되는 지상 충돌 경보 시스템으로, 주로 �
 이런 GPWS를 구현하기 위해 사용한 마이크로컨트롤러는 아두이노 UNO, 거기에 HC-SR04 초음파 센서 그리고 수동 부저 모듈을 결선하여 구현했습니다.
 
 <p align="center">
-  <img src="https://github.com/MiruHeon/Normal-Project/blob/main/gpws.jpeg?raw=true" alt="PFD" width="500" />
+  <img src="https://github.com/MiruHeon/Normal-Project/blob/main/gpws.jpeg?raw=true" alt="GPWS" width="600" />
 </p>
 
 ## Architecture
